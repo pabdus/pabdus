@@ -7,5 +7,8 @@ Let's code, learn, and grow together!
 
 
 
-- Found me on <a href="https://www.linkedin.com/in/pablo-alberto-duque-marin-426334155/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a> 💼
+- Found me on
+
+- <a href="https://www.linkedin.com/in/pablo-alberto-duque-marin-426334155/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a> 💼7
+- 
 
