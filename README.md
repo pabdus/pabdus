@@ -41,9 +41,9 @@ GitHub Actions por OIDC, sin claves guardadas.
 - **Nube e infraestructura:** Terraform, Lambda, EventBridge, SQS, DynamoDB, S3, CloudFront, Route 53,
   GitHub Actions con OIDC.
 - **Datos y ML:** Python, SQL, pandas, scikit-learn, XGBoost, PyTorch.
-- **Frontend:** React, Vite, GraphQL (Apollo), Testing Library.
+- **Frontend:** React.
 - **Estadística:** control estadístico de procesos (PCA, T², SPE), Wilcoxon, Holm, TOST, SciPy, R.
-- **Calidad:** pytest y Vitest con pruebas de mutación, SonarCloud.
+- **Calidad:** pytest con pruebas de mutación, SonarCloud.
 
 ## Formación
 
